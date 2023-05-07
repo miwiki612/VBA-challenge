@@ -1,3 +1,3 @@
-code source: Modula export, need to run on individual sheet.
+code source: .bas Modula export from .xlsm, need to run on individual sheet.
 
 location: https://github.com/miwiki612/VBA-challenge/blob/main/retrieval_and_summary.bas
