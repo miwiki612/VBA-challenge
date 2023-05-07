@@ -151,7 +151,7 @@ Sub summary()
         
     Next i
     
-    ' write result to table - ERROR waiting right formual for percent
+    ' write result
     Cells(2, 16).Value = ticker_max_per
     Cells(2, 17).Value = FormatPercent(max_per)
     
