@@ -1,4 +1,4 @@
-* code source: .bas Module export from .xlsm. 
+* code source: retrieval_and_summary.bas Module export from .xlsm. 
   - SUB retrieval
     - sort data for the selected sheet, record each Ticker
     - Yearly Change = close_price - open_price
